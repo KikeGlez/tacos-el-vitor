@@ -1,0 +1,18 @@
+TACOS EL VITOR - Landing page
+
+ARCHIVOS
+  index.html   Contenido y textos (cada sección tiene un título en comentarios)
+  style.css    Colores, tipografías y diseño
+  script.js    Idioma, calculadora, avisos de reseñas y ampliar el menú
+  images/      Todas las fotos y los menús (ES / EN)
+
+CÓMO SUBIRLO A GITHUB
+  Sube estos 4 elementos juntos a la raíz del repositorio (index.html, style.css, script.js y la carpeta images).
+  Si falta uno, la página se ve rota. Luego activa GitHub Pages y "Enforce HTTPS".
+
+QUÉ CAMBIAR Y DÓNDE
+  Precios: index.html, busca "PRECIO PAQUETE" y el selector de la calculadora (value).
+  WhatsApp: script.js, variable P. También los enlaces wa.me, sms y tel en index.html.
+  Colores: style.css, bloque :root al inicio.
+  Reseñas del aviso flotante: script.js, lista R.
+  Cambiar una foto: reemplaza el archivo en images/ conservando el mismo nombre.
